@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"first-api-nodejs","dependencies":{"body-parser":{"version":"1.19.0"},"consign":{"version":"0.1.6"},"express":{"version":"4.17.1"},"moment":{"version":"2.29.1"},"mysql":{"version":"2.18.1"}}}
