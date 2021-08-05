@@ -15,7 +15,7 @@ conexao.connect((erro) => {
     const app = customExpress();
 
     app.listen(porta, () => {
-      console.log("\nServidor rodando na porta " + porta);
+      console.log("\nServidor rodando na porta " + porta + "\n");
     });
   }
 });
